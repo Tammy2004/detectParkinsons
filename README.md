@@ -17,9 +17,4 @@ The dataset used in this project is sourced from the [Shreya Dutta. (2024). Park
 - Biomedical voice measurements (e.g., MDVP:Fo(Hz), MDVP:Jitter(%), RPDE, DFA, etc.)
 - `status` column indicating whether the subject has Parkinson’s (1) or not (0)
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-Make sure you have Python 3.7+ and Jupyter Notebook installed. You can install the dependencies with:
 
