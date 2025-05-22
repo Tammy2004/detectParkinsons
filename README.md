@@ -1,8 +1,9 @@
-# 🧠 Parkinson's Disease Detection Using Machine Learning
+# Parkinson's Disease Detection Using Machine Learning
 
-This repository contains a Jupyter Notebook that demonstrates how to detect Parkinson's disease using a machine learning model trained on biomedical voice measurements. The goal is to assist in early diagnosis using accessible and efficient data-driven methods.
+This repository contains a Jupyter Notebook that demonstrates how to detect Parkinson's disease using a machine learning model trained on biomedical voice measurements. The goal is to assist in early diagnosis using accessible and efficient data-driven methods. 
+[A personal goal for me in developing this was to get experience with a random forest classifier.]
 
-## 🗂️ Project Structure
+## 🗂Project Structure
 
 - `main.ipynb`: Main Jupyter Notebook containing the code for data analysis, preprocessing, model training, and evaluation.
 - `data/`: Folder containing the dataset (if applicable).
